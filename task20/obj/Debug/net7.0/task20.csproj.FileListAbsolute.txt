@@ -1,0 +1,15 @@
+C:\Users\User\Documents\homework\task20\obj\Debug\net7.0\task20.csproj.AssemblyReference.cache
+C:\Users\User\Documents\homework\task20\obj\Debug\net7.0\task20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\homework\task20\obj\Debug\net7.0\task20.AssemblyInfoInputs.cache
+C:\Users\User\Documents\homework\task20\obj\Debug\net7.0\task20.AssemblyInfo.cs
+C:\Users\User\Documents\homework\task20\obj\Debug\net7.0\task20.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\homework\task20\bin\Debug\net7.0\task20.exe
+C:\Users\User\Documents\homework\task20\bin\Debug\net7.0\task20.deps.json
+C:\Users\User\Documents\homework\task20\bin\Debug\net7.0\task20.runtimeconfig.json
+C:\Users\User\Documents\homework\task20\bin\Debug\net7.0\task20.dll
+C:\Users\User\Documents\homework\task20\bin\Debug\net7.0\task20.pdb
+C:\Users\User\Documents\homework\task20\obj\Debug\net7.0\task20.dll
+C:\Users\User\Documents\homework\task20\obj\Debug\net7.0\refint\task20.dll
+C:\Users\User\Documents\homework\task20\obj\Debug\net7.0\task20.pdb
+C:\Users\User\Documents\homework\task20\obj\Debug\net7.0\task20.genruntimeconfig.cache
+C:\Users\User\Documents\homework\task20\obj\Debug\net7.0\ref\task20.dll

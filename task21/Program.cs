@@ -4,7 +4,7 @@
 // 1 4 7 2        среднее арифметическое каждого столбца
 // 5 9 2 3        4,6  5,6  3,6  3
 // 8 4 2 4
-Console.Write("Введите размерность m массива");
+Console.Write("Введите размерность m масс;ива");
 int m=Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите размерность n массива");
 int n=Convert.ToInt32(Console.ReadLine());
